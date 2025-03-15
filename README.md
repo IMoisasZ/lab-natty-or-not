@@ -53,7 +53,7 @@ Depois ui alterando as solicitações para alterar as logomarcas, como descrito 
 
 ### Logomarcas criada com copilot
 
-<p align="left"><a href="#"><img src="./assets/logomarca_4.jpeg" width="300"></a></p>
+<p align="center"><a href="#"><img src="./assets/logomarca_4.jpeg" width="300"></a></p>
 
 ## 💭 Reflexão (Opcional)
 
